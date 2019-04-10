@@ -2,5 +2,5 @@
   "title": "About",
   "date": "2018-07-07T03:00:50-07:00",
   "thumbnail": "/images/uploads/bael-big.jpg",
-  "body": "# Bael is a free blogging theme to use with Netlify CMS. It has a utilitarian, brutalist design that lends itself to written content and full width images.\n\nAvailable on [Github](https://github.com/jake-101/bael-template)\\\nMIT Open Source License"
+  "body": "# This is the NuxtCMS module combined with Netlify CMS. It is also using Bael, a free blogging theme for Netlify CMS\n\nNuxtCMS Available on [Github](https://github.com/davidroyer/nuxtcms)\\\nMIT Open Source License\n\nBael Available on [Github](https://github.com/jake-101/bael-template)\\\nMIT Open Source License"
 }
